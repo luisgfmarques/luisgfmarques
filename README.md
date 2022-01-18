@@ -25,6 +25,6 @@
 <div>
   <a href="https://www.instagram.com/luis_gfmarques/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:luisgustavomarques@outlook.com"><img src="https://img.shields.io/badge/-outlook-%23333?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
-  <a href="https://linkedin.com/in/luisgfmarques" target="_blank"><img src="https://img.shields.io/badge/
+  <a href="https://linkedin.com/in/luisgfmarques" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 </div>
